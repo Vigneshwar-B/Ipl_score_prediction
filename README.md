@@ -87,9 +87,6 @@ The IPL First Innings Score Prediction project is a web application built using 
 3. Click on the **Predict Score** button.
 4. The application will display the predicted score range for the first innings.
 
-## Example
-
-![Example Prediction](https://via.placeholder.com/600x300.png?text=Sample+Prediction+Output)
 
 ## Model Training
 
