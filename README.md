@@ -117,5 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">Built with 💙 by Vigneshwar B.</p>
 ```
-
-This `README.md` file provides a clear project description, usage instructions, and installation details while maintaining an aesthetic layout. Feel free to adjust links, images, or acknowledgments as needed!
